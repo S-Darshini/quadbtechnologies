@@ -7,7 +7,6 @@ A simple Todo application built with React that allows users to add, edit, delet
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Output](#projectoutput)
 - [Credits](#credits)
 - [Contact](#contact)
 
@@ -49,13 +48,6 @@ The app will be available at http://localhost:3000.
 - Use the buttons to edit, delete, or mark tasks as completed.
 - Use the filter button to show only completed tasks.
 
-## Project Output
-Desktop View: 
-![image](https://github.com/VigneshRamamoorthyy/Todos-App/assets/121936513/7da59604-e6be-4c34-8b14-73b492d210da)
-
-Mobile View:
-![WhatsApp Image 2024-07-05 at 00 27 05_1c573529](https://github.com/VigneshRamamoorthyy/Todos-App/assets/121936513/5c6db328-8c5b-4a55-98fa-c6188df3e3cd)
-
 
 ## credits
 
@@ -66,4 +58,4 @@ Mobile View:
 ## contact 
 
 Your Name - S Darshini
-Project Link: 
+Project Link: https://github.com/S-Darshini/quadbtechnologies.git
